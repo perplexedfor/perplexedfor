@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @perplexedfor
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Next
+- 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me gusainabhinav037@gmail.com
 
